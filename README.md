@@ -4,7 +4,7 @@ The project is made for educational purposes, as the homework of the course [dee
 ## Repository Structure
 
 ```bash
-checkpoints/                         # The folder where the checkpoints of all trained models are located
+checkpoints/                         # Folder with model checkpoints
 models/
 ├─ kws_baseline_model.pth            # A baseline-based streaming model
 ├─ kws_final_model.pth               # The final compressed streaming model
